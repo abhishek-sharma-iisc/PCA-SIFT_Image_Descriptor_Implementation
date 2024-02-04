@@ -1,4 +1,4 @@
-# PCA-SIFT-implementation-from-scratch
+# PCA-SIFT_Image_Descriptor_Implementation
 
 Reference: https://ieeexplore.ieee.org/document/1315206
 
